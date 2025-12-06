@@ -47,9 +47,8 @@ Applications include gesture-based interfaces, industrial safety systems, virtua
 
 | SAFE State | WARNING State | DANGER State |
 |------------|---------------|--------------|
-| ![safe](docs/screenshots/Safe.png) | ![warn](docs/screenshots/Warning.png) | ![danger](docs/screenshots/Danger.png) |
+| ![safe](Docs/Screenshots/Safe.png) | ![warn](Docs/Screenshots/Warning.png) | ![danger](Docs/Screenshots/Danger.png) |
 
-> (Place your screenshots inside `/docs/screenshots/` folder)
 
 ---
 
